@@ -1,0 +1,3 @@
+[submodule "t2v"]
+	path = t2v
+	url = git@github.com:miikamal/Time2Vec-TensorFlow2.git
