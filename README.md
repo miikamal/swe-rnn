@@ -6,7 +6,7 @@ This GitHub repository contains the source code necessary to reproduce the snow 
 
 The time2vector layer has been given as git submodule, to clone the repo together with t2v submodule clone the project with the `--recursive` option:
 ```
-git clone --recursive https://github.com/miikamal/swe-forecast.git
+git clone --recursive git@github.com:miikamal/swe-rnn.git
 ```
 
 ## Usage
